@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+pytesseract
+imutils
+spacy
+tqdm
+flask
+scipy
